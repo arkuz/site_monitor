@@ -108,8 +108,5 @@ venv.bak/
 # vscode stuff
 .vscode/
 
-*.db
-
-webapp/config_tmp.py
-
-webapp/config.py
+urls.txt
+monitor.log
